@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer with 1.6+ years of experience specializing in Node.js development. My expertise extends to various AWS services, including AppSync, Lambda, CloudFormation, and API Gateway. I have in-depth knowledge of GraphQL and REST APIs and have successfully worked on projects involving real-time applications utilizing sockets and GraphQL subscriptions.
+I am a software developer with 2+ years of experience specializing in Node.js development. My expertise extends to various AWS services, including AppSync, Lambda, CloudFormation, and API Gateway. I have in-depth knowledge of GraphQL and REST APIs and have successfully worked on projects involving real-time applications utilizing sockets and GraphQL subscriptions.
 
 - 📫 How to reach me: devagosw193@gmail.com
 
